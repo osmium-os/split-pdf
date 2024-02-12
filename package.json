@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  },
+  "name": "split-pdf",
+  "version": "1.0.0",
+  "main": "split.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
